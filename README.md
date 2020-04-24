@@ -48,7 +48,7 @@ int keychain_delete(){
 All of these functions need to be completed in the keychain.c file. A skeleton
 code is provided for your convenience.
 
-##Optional Requirements
+## Optional Requirements
 Note that a secure password manager is not allowed to include the master password (or even a hash of it or any other values that would leak information about it). Can you implement the project in away that you do not store the master password.  
 
 ## Build notes
